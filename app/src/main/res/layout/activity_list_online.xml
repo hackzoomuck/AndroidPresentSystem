@@ -7,14 +7,14 @@
     tools:ignore="missingPrefix"
     tools:context="com.example.leeje.androidpresentsystem.ListOnline">
 
-    <Toolbar
+    <android.support.v7.widget.Toolbar
         android:id="@+id/toolBar"
         android:minHeight="?attr/actionBarSize"
         android:background="?attr/colorPrimary"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:titleTextColor="@android:color/white"
-        ></Toolbar>
+        ></android.support.v7.widget.Toolbar>
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/listOnline"
