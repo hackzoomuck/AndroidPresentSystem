@@ -16,7 +16,7 @@ import com.google.firebase.database.DatabaseReference;
 public class ListOnline extends AppCompatActivity {
 
 
-    //ㅋㅋ 왜 안
+    //ㅋㅋ된다 된다~!!!!!!????????
     //firebase
     DatabaseReference onlineRef,currentUserRef, counterRef;
     FirebaseRecyclerAdapter<User,ListOnlineViewHolder> adapter;
