@@ -15,13 +15,15 @@ import com.google.firebase.database.DatabaseReference;
 
 public class ListOnline extends AppCompatActivity {
 
-
-    //ㅋㅋ된다 된다~!!!!!!????????
+    //? e되는건가?
+    //ㅇㄹㅇㄹㅇㅇㄹㅇ....
+    //ㅋㅋ된다 된다~!!!!!!????????ㅇㄴㄻㄴㅇㅁㅇㄹㅇㄹㅇㄹㅇㄹㅇㄹㅇ
     //firebase
     DatabaseReference onlineRef,currentUserRef, counterRef;
     FirebaseRecyclerAdapter<User,ListOnlineViewHolder> adapter;
-
+//쟂ㅇㅇㅇㅇ
     //View
+
     RecyclerView listOnline;
     RecyclerView.LayoutManager layoutManager;
 
